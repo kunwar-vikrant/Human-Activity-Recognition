@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/Cycling/Galleries/8+Winter+Cross-Training+Activities/walking-slide1.jpg">
+  <img width="460" height="300" src="https://i.gifer.com/EDaT.gif">
 </p>
 
 
